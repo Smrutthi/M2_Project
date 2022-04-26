@@ -1,6 +1,8 @@
 # Introduction
 Some of the accidents occur due to rear-end collision of the vehicles. The drivers can be notified by the upcoming vehicles that are coming at the back. This is the major reason for the rear end accidents. Rear end accidents are prevented by using ultrasonic sensor kept at the back of the vehicle. When a vehicle tries to hit the back side, the information is diplayed in the LCD Display. The distance between the vehicles is sensed by the ultrasonic sensor. Measuring distance between vehicles helps to avoid collision and severe damages.
 ![1-Figure1-1](https://user-images.githubusercontent.com/89585989/165326763-7fc564f3-bc05-4481-b036-b6ea56264147.png)
+# Research
+
 # Software Used
 * SimulIDE
 # Components Description
@@ -24,3 +26,13 @@ Some of the accidents occur due to rear-end collision of the vehicles. The drive
 * Can be implemented in vehicles to monitor the distance of the vehicles behind
 * Can also be used as an alert in order to avoid collision of vehicles
 ## Threats
+* Similar applications are available
+# 4W's and 1'H
+## Who
+This project can be useful for vehicle drivers to know about the distance between the vehicle coming back
+## What
+This project measures the distance between two vehicles to avoid collision
+## Why
+This project is useful 
+## When
+## How
