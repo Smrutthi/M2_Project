@@ -33,6 +33,17 @@ This project can be useful for vehicle drivers to know about the distance betwee
 ## What
 This project measures the distance between two vehicles to avoid collision
 ## Why
-This project is useful 
+This project is useful in order to avoid rear-end collision of vehicles
 ## When
 ## How
+# Requirement
+## High Level Requirements
+| ID  | Description | Status |
+| --- | --- | --- |
+| HLR-1 | Displays the distance between vehicles | Implemented |
+| HLR-2 | Warns with the help of buzzer | Implemented |
+## Low Level Requirements
+| ID  | Description | Status |
+| --- | --- | --- |
+| LLR-1 | Interface Arduino with Ultrasonic Sensor | Implemented |
+| LLR-2 | Interface Arduino with LCD Display | Implemented |
